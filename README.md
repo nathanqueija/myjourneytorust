@@ -18,8 +18,8 @@ This repo is a tentative of documenting my learning journey until I feel comfort
 My plan is to go chapter by chapter and code while I learn. I'll be summarizing and commenting on the chapters as I go to practice and have a more active learning journey rather than just reading and creating some variables.
 Whenever it is possible I'll be comparing some stuff with Javascript's ecosystem in a tentative of bridging the gap between Rust and my universe. I hope that can help you too.
 Summary and general comments regarding concepts I struggled to understand will be in a readme file. I'll try to provide additional links with sources that helped me to understand such concepts.
-I'll also add comments in the code.
-Please, feel free to contribute and add your impressions. 
+I'll also add a lot of comments in the code. Please, check them.
+Feel free to contribute and add your impressions. 
 
 Thanks for reading this book and let's learn!
 
