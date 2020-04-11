@@ -54,6 +54,27 @@ If you want to know more about AOT and JIT compilers I can recommend:
 
 [Computer Programming for Beginners | What are Interpreters, Compilers & JIT compilers? | Ep18](https://www.youtube.com/watch?v=svJerixawV0)
 
+### Cargo
+
+Think of cargo as NPM + Webpack (or any other similar tool) + Babel + Eslint + Prettier in just one tool. And you don't even need to provide any configuration files.
+
+Isn't it a dream? Cargo is Rust's build system and dependency manager.
+
+It doesn't mean that all these tasks are done by cargo, but it provides commands that will at least redirect the action to the responsible source.
+
+When you install rust with rustup it also installs Cargo so it's not needed to install anything else.
+
+If you create a new project using `cargo new` you'll see a `Cargo.toml` which corresponds to what `package.json` is in a Node project.
+
+Packages in Rust are referred to as crates. So if you say you want to install an NPM package in a Node project you'd say you want to install a create in a Rust project.
+
+
+
+
+
+
+
+
 
 
  
